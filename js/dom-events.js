@@ -30,5 +30,21 @@ $(document).ready(function () {
         $(this).next().text(number*number);
     });
 
+    $('#hide-show').on('click', function(event){
 
+        /* The Event Object */
+        // Allows you to manipulate event propagation
+
+        // event.stopPropagation()
+        // Doesn't allow the event to move upwards the DOM tree
+        event.stopPropagation();
+
+        // event.preventDefault()
+        // Prevents the default behaviour of events
+        event.preventDefault();
+
+        /* Fade */
+        // There are three main jQuery Object methods for this: fadeIn(), fadeOut() and fadeToggle()
+        $('#show-hide').fadeToggle();
+    });
 });
