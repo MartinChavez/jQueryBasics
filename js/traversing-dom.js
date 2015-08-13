@@ -1,6 +1,5 @@
 $(document).ready(function () {
-
-
+    
     /* Descendant selector */
     // You can select all the elements inside a node
 
@@ -38,6 +37,7 @@ $(document).ready(function () {
     $("#js-frameworks-traversing").find("li").last().text("Last");
 
     /* Walking the DOM */
+
     // You can use method chaining the manipulate specific DOM elements
     // These methods are: next(),prev(),parent() and children()
     $("#js-frameworks-traversing").find("li").first().next().text("Second");
