@@ -3,7 +3,7 @@ $(document).ready(function () {
     /* Descendant selector */
     // You can select all the elements inside a node
 
-      //Parent  Descendant
+    // Parent  Descendant
     $("#js-frameworks li").text("jQuery");
 
     // The descendant selector finds all the children (and their children) of the given condition
