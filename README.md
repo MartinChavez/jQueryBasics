@@ -20,8 +20,8 @@ Topics
  - Class Manipulation
  - HTML5 Data Attributes
  - Styling
- - Reusability
  - Animations
+ - Reusability
  - Best Practices
  
 Suggested prerequisites
