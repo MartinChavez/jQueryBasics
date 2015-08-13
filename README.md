@@ -83,7 +83,7 @@ $(document).ready(function () {
     /* Descendant selector */
     // You can select all the elements inside a node
 
-      //Parent  Descendant
+    // Parent  Descendant
     $("#js-frameworks li").text("jQuery");
 
     // The descendant selector finds all the children (and their children) of the given condition
@@ -162,7 +162,7 @@ $(document).ready(function () {
 
     /* Interaction */
 
-    // the .ready() method relieves an event handler function as an argument
+    // the .ready() method receives an event handler function as an argument
     // You can pass in a function that will be executed when the event gets triggered
 
     // The syntax is the following :
