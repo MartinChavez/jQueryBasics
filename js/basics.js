@@ -6,7 +6,7 @@
 // The following code will allow you to run jQuery once the DOM is ready
 $(document).ready(function() {
 
-    /*Retrieving an element text*/
+    /*Retrieving an element's text*/
 
     //You can find any DOM element and it's text using this syntax:
 
