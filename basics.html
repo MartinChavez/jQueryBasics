@@ -6,11 +6,18 @@
     <!-- In order to use jQuery, you need to load it with a script tag -->
     <script type="text/javascript" src="js/jquery-2.1.4.js"></script>
     <script type="text/javascript" src="js/basics.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
 </head>
 <body>
+<div class="jumbotron">
 <h1>jQuery Basics</h1>
-
-<h2>jQuery is mainly used for: </h2>
+</div>
+<h2 class="btn btn-primary btn-lg">jQuery is mainly used for : </h2>
+<br/>
+<br/>
 <ul>
     <li>Finding elements in an HTML document</li>
     <li>Changing HTML content</li>
@@ -19,8 +26,9 @@
     <li>Sending requests to servers and retrieving new content</li>
 </ul>
 
-<h2>Document Object Model</h2>
-
+<h2 class="btn btn-primary btn-lg">Document Object Model</h2>
+<br/>
+<br/>
 <p>A tree-like structure created by browsers so we can quickly find HTML elements using javascript</p>
 <p>Inside the DOM, HTML elements become nodes which have relationships with one another</p>
 <p>There are two types of nodes: <strong>element</strong> and  <strong>text</strong></p>
@@ -28,7 +36,9 @@
 <p>You can use jQuery to interact with the DOM and it will work on most modern browsers</p>
 
 
-<h2>jQuery usage</h2>
+<h2 class="btn btn-primary btn-lg">jQuery usage</h2>
+<br/>
+<br/>
 <p>This is jQuery syntax: jQuery(-selector-)
 <p>This is jQuery simplified syntax: $(-selector-)</p>
 <p>Generally, you would use the CSS selectors (on jQuery) to find elements inside the <strong>DOM</strong></p>
