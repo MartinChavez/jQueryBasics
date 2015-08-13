@@ -163,7 +163,7 @@ $(document).ready(function () {
     /* Interaction */
 
     // the .ready() method receives an event handler function as an argument
-    // You can pass in a function that will be executed when the event gets triggered
+    // You can pass in a function that will be executed once the event gets triggered
 
     // The syntax is the following :
                  //event   event handler
