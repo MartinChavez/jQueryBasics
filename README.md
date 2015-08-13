@@ -218,7 +218,7 @@ $(document).ready(function () {
 
     /* Reusing jQuery Objects */
     // It is a good practice to reuse selectors, it may be significantly faster
-    // Note: During this tutorial we will not enforce this practice to add clarity to the examples
+    // Note: During this tutorial we will not enforce this practice for the sake of clarity
 
     $(".html-generated").before(paragraph);
     $(".html-generated").after(paragraph.clone());
