@@ -1,50 +1,80 @@
 <a name="README"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" width="300px" height="120px" /></a>
-jQuery : Basics
+jQuery: Basics
 ================
 
 A project aimed to help the user learn jQuery basic topics. Each unit contains a tutorial with concepts, examples and best practices.
 
 Topics
 ================
- - Instalation and setup
+ - Instalation and Setup
+ - Javascript and DOM
  - DOM Manipulation
  - DOM Interaction
  - DOM Events
+ - Mouse Events
+ - Keyboard Events
+ - The Event Object
  - Filter Selectors
- - Descendant selectors
+ - Descendant Selectors
  - Traversing DOM
  - Class Manipulation
  - HTML5 Data Attributes
  - Styling
  - Reusability
- - Best Practices
  - Animations
+ - Best Practices
  
 Suggested prerequisites
 ====================
 <a name="learnJavascript">[<img src="https://camo.githubusercontent.com/eb464a60a4a47f8b600aa71bfbc6aff3fe5c5392/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" width="50px" height="50px" />](https://github.com/MartinChavez/Javascript)</a>
 <a name="README">[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2000px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" />](https://github.com/MartinChavez/HTML-CSS)</a>
 
-ng-app 
+Installation
 ====================
 ```HTML
-  <!-- ng-app directive -->
-  <!-- The ng-app directive creates an angular application by running the specified module when the document loads -->
-  <!-- By including this directive, the enclosed HTML is going to be treated as part of the Angular app -->
-  <body ng-app="learnAngularApp">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery Basics</title>
+    <!-- In order to use jQuery, you need to load it with a script tag -->
+    <script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="js/basics.js"></script>
+</head>
+<body>
+<h1>jQuery Basics</h1>
+
+<h2>jQuery is mainly used for</h2>
+<ul>
+    <li>Finding elements in an HTML document</li>
+    <li>Changing HTML content</li>
+    <li>Listening for user interaction and changing behaviour depending on it</li>
+    <li>Animating the content on the page</li>
+    <li>Sending requests to servers and retrieving new content</li>
+</ul>
 ```
-Attaching a Controller
+Javascript and DOM
 ====================
-```HTML
- <!-- Attaching a Controller -->
-    <!-- In order to achieve this, you need to use the ng-controller Directive -->
-    <!-- You are attaching this controller to an element inside of HTML tags-->
-    <!-- You can create an alias with the 'as' keyword -->
-    <div class="footer" ng-controller="FooterController as footerController">
-      <div class="container">
-        <p>{{footerController.footer.projectName}}</p>
-      </div>
-    </div><!-- The scope of the controller is only inside the closing <div> -->
+```Javascript
+/* Javascript and DOM */
+
+// It is very important to understand that we need to make sure that the DOM has finished
+// loading the HTML content before we can reliably use jQuery
+
+// The following code will allow you to run jQuery once the DOM is ready
+$(document).ready(function() {
+
+    /*Retrieving an element's text*/
+
+    //You can find any DOM element and it's text using this syntax:
+
+    // text() is a method offered by jQuery
+    $("h1").text(); //returns "jQuery Basics"
+
+    //text() allows you to modify the text node
+    $("h1").text("jQuery: Basics")
+
+});
 ```
 Modules
 ====================
