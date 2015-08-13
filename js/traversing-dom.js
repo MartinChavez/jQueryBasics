@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    
+
     /* Descendant selector */
     // You can select all the elements inside a node
 
