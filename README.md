@@ -355,7 +355,7 @@ Styling and Animations
 
 Run and Play
 ====================
-<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/AngularRunAndPlay.png" />
+<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/jqueryBasics.png" />
 
 Questions ?
 ====================
