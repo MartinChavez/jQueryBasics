@@ -301,8 +301,8 @@ $(document).ready(function () {
 Styling and Animations
 ====================
 ```Javascript
- /* Styling */
-    // You can set and retrieve the css of a given element with the following methods :
+    /* Styling */
+    // You can set and retrieve the css of a given element with the following methods:
     // css(<attr>,<value>), css(<attr>) and css(<value>)
 
     $('li').on('click', function(){
