@@ -258,7 +258,7 @@ $(document).ready(function () {
         $(this).closest('.jquery').find('.jqueryFrameworks').slideDown();
     });
 
-    // Tip: You can know how many instances did the jquery selector found with the 'length' property
+    // Tip: You can know how many instances the jquery selector found with the 'length' property
     $('p').text($('p').length);
 
 
