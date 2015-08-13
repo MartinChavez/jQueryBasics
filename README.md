@@ -210,7 +210,7 @@ $(document).ready(function () {
 
     /* Filter selector */
 
-    // filter() finds elements and add granularity to the query
+    // filter() finds elements and adds granularity to the query
     // Filter is generally preferred (performance improvements and readability) over CSS selectors
     $(".america").filter(".south").hide();
     $(".america").filter(".south").show();
