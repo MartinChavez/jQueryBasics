@@ -2,7 +2,7 @@
 jQuery: Basics
 ================
 
-A project aimed to help the user learn jQuery basic topics. Each unit contains a tutorial with concepts, examples and best practices.
+A project aimed to help the user learn the basic topics of jQuery. Each unit contains a tutorial with concepts, examples and best practices.
 
 Topics
 ================
