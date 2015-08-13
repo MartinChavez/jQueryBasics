@@ -1,4 +1,4 @@
-<a name="README">[<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" width="200px" height="200px" />]</a>
+<a name="README"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" width="300px" height="300px" /></a>
 
 jQuery : Basics
 ================
