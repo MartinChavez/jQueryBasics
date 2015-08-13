@@ -6,7 +6,7 @@ A project aimed to help the user learn the basic topics of jQuery. Each unit con
 
 Topics
 ================
- - Instalation and Setup
+ - Installation and Setup
  - Javascript and DOM
  - DOM Manipulation
  - DOM Interaction
