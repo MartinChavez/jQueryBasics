@@ -355,7 +355,7 @@ Run and Play
 ```Terminal
 Open the .html and .js files and start interacting!
 ```
-<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/jqueryBasics.png" />
+<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/jqueryBasics2.png" />
 
 Questions ?
 ====================
