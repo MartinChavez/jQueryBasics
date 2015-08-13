@@ -327,7 +327,7 @@ Styling and Animations
     });
 
     /* Best Practice */
-    // In general, you would want to leave all the css on the css files and add and remove classes
+    // In general, you would want to leave all the css on the css files then add and remove classes
     // You can use toggleClass(), addClass() hasClass() and removeClass()
     $('li').first().addClass('colorful');
 
