@@ -1,4 +1,4 @@
-<a name="README"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTFKZ34Sz6Pmu1JwuGmM8uYPJws-2-dj264pK3zIND4U3Vo0jB1"   width="300px" height="300" /></a>
+<a name="README"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTFKZ34Sz6Pmu1JwuGmM8uYPJws-2-dj264pK3zIND4U3Vo0jB1"    /></a>
 jQuery: Basics
 ================
 
