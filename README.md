@@ -1,4 +1,4 @@
-<a name="README"><img src="http://majweb.co.uk/mwd2014/wp-content/uploads/2012/05/jquery-logo.jpg"   width="300px" height="250px" /></a>
+<a name="README"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTFKZ34Sz6Pmu1JwuGmM8uYPJws-2-dj264pK3zIND4U3Vo0jB1"   width="300px" height="300" /></a>
 jQuery: Basics
 ================
 
