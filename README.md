@@ -1,4 +1,4 @@
-<a name="README"><img src="https://martinchavez.github.io/Assets/Logos/jquery.svg" /></a>
+<a name="README"><img src="https://martinchavez.github.io/Assets/Logos/jquery.svg" width="300px" height="300px" /></a>
 
 jQuery: Basics
 ================
