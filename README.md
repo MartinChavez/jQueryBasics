@@ -1,4 +1,5 @@
-<a name="README"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTFKZ34Sz6Pmu1JwuGmM8uYPJws-2-dj264pK3zIND4U3Vo0jB1"    /></a>
+<a name="README"><img src="https://martinchavez.github.io/Assets/Logos/jquery.svg" /></a>
+
 jQuery: Basics
 ================
 
@@ -26,8 +27,8 @@ Topics
  
 Suggested prerequisites
 ====================
-<a name="learnJavascript">[<img src="https://camo.githubusercontent.com/eb464a60a4a47f8b600aa71bfbc6aff3fe5c5392/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" width="50px" height="50px" />](https://github.com/MartinChavez/Javascript)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/htmlcss.jpg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="50px" height="50px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/htmlcss.svg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS)</a>
 
 Installation
 ====================
@@ -363,12 +364,13 @@ Open the .html and .js files and start interacting!
 
 Continue Learning
 ====================
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/martinbucket/JS.png" width="50px" height="50px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
-<a name="README">[<img src="http://nodejs-cloud.com/img/128px/nodejs.png" width="50px" height="50px" />](https://github.com/MartinChavez/Node.js-Tutorial)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/square.png" width="50px" height="50px" />](https://github.com/MartinChavez/AngularJs-Basics)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/angularadvanced.png" width="50px" height="50px" />](https://github.com/MartinChavez/AngularJS-Advanced-Topics)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/CSHARP.png" width="50px" height="50px" />](https://github.com/MartinChavez/CSharp)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/linqblack.png" width="50px" height="50px" />](https://github.com/MartinChavez/LINQ)</a>
-<a name="README">[<img src="http://precision-software.com/wp-content/uploads/2014/04/jQurery.gif" width="50px" height="50px" />](https://github.com/MartinChavez/jQueryBasics)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/htmlcss.jpg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS)</a>
-<a name="README">[<img src="https://s3-us-west-2.amazonaws.com/testdrivenlearningbucket/htmlcssblack.jpg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="50px" height="50px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/nodejs.svg" width="50px" height="50px" />](https://github.com/MartinChavez/Node.js-Tutorial)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/angular.svg" width="50px" height="50px" />](https://github.com/MartinChavez/AngularJs-Basics)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/angular2.svg" width="50px" height="50px" />](https://github.com/MartinChavez/AngularJS-Advanced-Topics)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/csharp.svg" width="50px" height="50px" />](https://github.com/MartinChavez/CSharp)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/linq.svg" width="50px" height="50px" />](https://github.com/MartinChavez/LINQ)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/jquery.svg" width="50px" height="50px" />](https://github.com/MartinChavez/jQueryBasics)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/htmlcss.svg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS)</a>
+<a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/htmlcss2.svg" width="65px" height="50px" />](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics)</a>
+
